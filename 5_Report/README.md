@@ -112,3 +112,13 @@ This project supports the following types of financial calculations:
 | LLTP_6 | FD Calculation | (5000, 7, 1) | 5359 | 5359 | Requirement Based |
 | LLTP_7 | SIP Calculation | (500, 7, 1) | 6232 | 6232 | Requirement Based |
 | LLTP_8 | LumpSum Calculation | (500, 7, 1) | 535 | 535 | Requirement Based |
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Report`         | Documentation of whole project
+`6_Images`         | All the output images of this project
