@@ -18,13 +18,13 @@
  * 
  * @return int 
  */
-int cagr();  
-int discountcalculator();  
-int ppf();  
-int emi();  
-int rd();  
-int fd();
+int cagr(); 
+int rd();
 int sip();
+ int emi();  
+int discountcalculator();  
+int fd();
+int ppf(); 
 int lumpsum();
 
 void exit();  
