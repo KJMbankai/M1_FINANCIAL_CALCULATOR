@@ -1,8 +1,12 @@
 # M1_FINANCIAL_CALCULATOR
 The goal of this project is to create a C program version of the financial calculator application that will do financial calculations based on the user's input.
 Naming convention M1_project goal
-![Code Quality Score](https://api.codiga.io/project/32362/score/svg)
-![Code Grade](https://api.codiga.io/project/32362/status/svg)
+
+
+| Build | Code Analysis - Static & Dynamaic | Unity | Code Quality | Git Inspector |
+|---|---|---|---|---|
+| [![Linux C/C++ CI - Build Status](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/linux_build.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/linux_build.yml) [![Windows C/C++ CI - Build Status](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/win_build.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/win_build.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/static.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/static.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/dynamic.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/dynamic.yml) |[![Unit Testing - Unity](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/unity.yml) |![Code Quality Score](https://api.codiga.io/project/32362/score/svg) ![Code Grade](https://api.codiga.io/project/32362/status/svg)|[![Contribution Check - Git Inspector](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/git_insp.yml/badge.svg)](https://github.com/KJMbankai/M1_FINANCIAL_CALCULATOR/actions/workflows/git_insp.yml) |
+
 
 # Folder Structure
 | Folder   |      Description     |  
@@ -14,10 +18,7 @@ Naming convention M1_project goal
 | `5_Report` |    Documentation of whole project  | 
 | `6_Images` |    All the images of this project  |
 
-# Contributors List and Summary
-| PS No. | Name | Features | Issuess Raised | Issuess Resolved | No Test Cases | Test Case Pass |
-|---|---|---|---|---|---|---|
-| `40020515` | Alrich Roshan S J | F1, F2, F3, F4, F5, F6, F7, F8 | 1 | 1 | 8 | 8 |
+
 
 | No | Feature |
 |---|---|
