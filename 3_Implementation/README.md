@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Implementation
 # Folder Structure
 | Folder   |      Description     |
@@ -9,4 +9,3 @@
 | test | All source code and data for testing purposes |
 =======
 
->>>>>>> 367d9199077a8fddd1a18d632573fe02c7dee757
